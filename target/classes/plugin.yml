@@ -1,0 +1,20 @@
+name: CityBuildPlugin
+version: 1.0-SNAPSHOT
+main: de.lowtime.sg.Main
+author: lowtime
+commands:
+  invsee:
+    permission: invsee.use
+    permission-message: §7CityBuild | Dir fehlt die Berechtigung!
+  heal:
+    permission: heal.use
+    permission-message: §7CityBuild | Dir fehlt die Berechtigung!
+  tpa:
+    permission: tpa.use
+    permission-message: §7CityBuild | Dir fehlt die Berechtigung!
+  tpahere:
+    permission: tpahere.use
+    permission-message: §7CityBuild | Dir fehlt die Berechtigung!
+  tpaaccept:
+    permission: tpaacept.use
+    permission-message: §7CityBuild | Dir fehlt die Berechtigung!
